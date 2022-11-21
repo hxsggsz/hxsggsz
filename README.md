@@ -1,3 +1,5 @@
+<img width='100%' height='100px' src='https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/master/img/header.png' />
+
 ### Hi there, i'm junior frontEnd dev / Olá pessoal, sou um programador FrontEnd Júnior 👋
 
 - 🌱 I’m currently learning Typescript / Atualmente estou estudando typescript
