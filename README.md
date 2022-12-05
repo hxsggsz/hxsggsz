@@ -1,13 +1,18 @@
-<img width='100%' height='200px' src='https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/master/img/header.png' />
+<img width='100%' height='300px' src='https://raw.githubusercontent.com/joaopauloaramuni/joaopauloaramuni/master/img/header.png' />
 
-### Hi there, i'm junior front-end dev that's learning backend to 👋 / Olá pessoal, sou um programador Front-end Júnior que também está aprendendo backend! 👋
+<div>
+    ### Hi there, i'm junior front-end dev that's learning backend to 👋 / Olá pessoal, sou um programador Front-end Júnior que também está aprendendo backend! 👋
 
-- 🌱 I’m currently learning API's GraphQL with Apollo Server/Client on NodeJS/Next's api / Atualmente estou estudando API's GraphQL com o Apollo Server/Client com NodeJS/Next com seu servidor interno.
+  - 🌱 I’m currently learning API's GraphQL with Apollo Server/Client on NodeJS/Next's api / Atualmente estou estudando API's GraphQL com o Apollo Server/Client com    NodeJS/Next com seu servidor interno.
+</div>
+  
+  <img src='https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png' min-width="400px" max-width="400px" width="400px" align="right" alt="Computador" />
+
 
 <div align="center">
   <a href="https://github.com/hxsggsz">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxsggsz&layout=compact&langs_count=7&theme=tokyonight"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hxsggsz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxsggsz&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##
