@@ -2,11 +2,11 @@
 
 ```ts
     function hxsggsz(): string {
-      const nome: string = 'victor hugo';
-      const idade: number = 20;
-      const especializacao: string = 'Desenvolvedor Full Stack';
+      const name: string = 'victor hugo';
+      const age: number = 20;
+      const especialization: string = 'Full Stack Developer';
 
-      return `Olá! Meu nome é ${nome}, tenho ${idade} anos e sou ${especializacao}.`;
+      return `Hello! My name is ${name}, I'm ${age} and I'm ${especialization}.`;
     }
 ```
 
