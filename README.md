@@ -13,15 +13,15 @@
 <h2> About Me 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 Currently, I am a contributor to the Devhatt OSS
+- 🔭 Currently, I am a contributor to the Devhatt OSS.
   
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Golang.
   
-- 👯 I’m looking to fullstack jobs
+- 👯 I’m looking to fullstack jobs.
   
-- 💬 Ask me about Typescript, React, Next and Node
+- 💬 Ask me about Typescript, React, Next and Node.
   
-- 🫡 Fun fact: Sou Brasileiro!.
+- 🫡 Fun fact: Sou Brasileiro!
 
 - Here is my <a href="https://portifolio-hxsggsz.vercel.app/">portifolio</a>
 
