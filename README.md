@@ -1,25 +1,31 @@
-<img width='100%' height='400px' src='https://www.nicepng.com/png/full/870-8703842_software-dev-banner-cartoon.png' />
+   <h1 align="center"> Hello World, < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
-<div>
-    ### Hi there, i'm junior front-end dev that's learning backend to 👋 / Olá pessoal, sou um programador Front-end Júnior que também está aprendendo backend! 👋
+```ts
+    function hxsggsz(): string {
+      const nome: string = 'victor hugo';
+      const idade: number = 20;
+      const especializacao: string = 'Desenvolvedor Full Stack';
 
-  - 🌱 I’m currently learning API's GraphQL with Apollo Server/Client on NodeJS/Next's api / Atualmente estou estudando API's GraphQL com o Apollo Server/Client com    NodeJS/Next com seu servidor interno.
-    
-    ### Here is my <a href="https://portifolio-hxsggsz.vercel.app/">portifolio</a>
-</div>
+      return `Olá! Meu nome é ${nome}, tenho ${idade} anos e sou ${especializacao}.`;
+    }
+```
+
+<h2> About Me 
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 Currently, I am a contributor to the Devhatt OSS
   
-  <img src='https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png' min-width="400px" max-width="400px" width="400px" align="right" alt="Computador" />
-
-
-<div align="center">
-  <a href="https://github.com/hxsggsz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxsggsz&layout=compact&langs_count=7&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hxsggsz&show_icons=true&theme=radical&include_all_commits=true"/>
- </div>
-
-##
+- 🌱 I’m currently learning Golang
   
-<div style='display: flex'>
+- 👯 I’m looking to fullstack jobs
+  
+- 💬 Ask me about Typescript, React, Next and Node
+  
+- 🫡 Fun fact: Sou Brasileiro!.
+
+- Here is my <a href="https://portifolio-hxsggsz.vercel.app/">portifolio</a>
+
+<div style='display: flex, margin-bottom: 10px'>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
@@ -28,21 +34,19 @@
   <img align="center" alt="Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">  
   <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-  <img align="center" alt="csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="dotnetcore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="SqlServer" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+  <img align="center" alt="Golang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
  </div>
-  
-##
 
-  # In the sense of curiosity:
-  ### I'm Open to work / Estou em busca de uma oportunidade de trabalho.
-  
-##
+  <br>
+
+
+
+| ![hxsggsz's github stats](https://github-readme-stats.vercel.app/api?username=hxsggsz&show_icons=true&theme=tokyonight) | ![hxsggsz GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxsggsz&theme=tokyonight) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+<br>
   
 <div style='display: flex; justify-content: center; align-items: center;'>
   <a href = "mailto:vt.hugo.2021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hxsggsz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
