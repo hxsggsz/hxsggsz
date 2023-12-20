@@ -41,7 +41,7 @@
 
 
 
-| ![hxsggsz's github stats](https://github-readme-stats.vercel.app/api?username=hxsggsz&show_icons=true&theme=tokyonight) | ![hxsggsz GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+| ![hxsggsz's github stats](https://github-readme-stats.vercel.app/api?username=hxsggsz&show_icons=true&theme=tokyonight) | ![hxsggsz GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hxsggsz&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxsggsz&theme=tokyonight) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
