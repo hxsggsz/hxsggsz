@@ -6,7 +6,7 @@
       const age: number = 20;
       const especialization: string = 'Full Stack Developer';
 
-      return `Hello! My name is ${name}, I'm ${age} and I'm ${especialization}.`;
+      return `Hello! My name is ${name}, I'm ${age} and I'm a ${especialization}.`;
     }
 ```
 
